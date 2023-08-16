@@ -1,1 +1,2 @@
 # Dissertation
+The repo contains the main custom scripts created by the author for this project. It is not an inclusive set of all relevant commands run for this project. Some computational analysis like exacting the HAPMAP3 data using Plink or merging the rsID annotation were run as singular bash commands and do not have an associated script. Thus, this repo serves as an example of what the code looks like for some of the analysis but is not a complete picture of all analysis. The methods describe a complete picture of all analysis run.
